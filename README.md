@@ -1,7 +1,9 @@
 # [Google Block Breaker: A Comprehensive Guide](https://blockbreakergame.com)
 
 **Google Block Breaker** is a modern take on the classic arcade game **Breakout**, introduced by Google as an Easter egg in its search engine. This addictive game is designed to bring back nostalgic memories while offering a fresh and engaging experience.
-![image](https://github.com/user-attachments/assets/a5ac028a-13ef-48e0-982b-dc77ae86f732)
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/a5ac028a-13ef-48e0-982b-dc77ae86f732" width="300" height="200" alt="google-block-breaker-logo">
+</div>
 
 ## Gameplay Overview
 
